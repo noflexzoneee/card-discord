@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'K h 4 i D 3 v';
+  title = 'N o f l e x z o n e';
   animSeq = ["/", "$", "\\", "|", "$"];
   animIndex = 0;
   titleIndex = 0;
